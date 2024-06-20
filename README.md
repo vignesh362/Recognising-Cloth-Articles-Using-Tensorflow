@@ -1,3 +1,3 @@
-# recognising-cloth-articles-using-tensorflow
- this program uses the already avaliable data set mnist from keras,
- this program detects the type of clothing and gives an output
+# TensorFlow-Based Cloth Article Recognition
+
+This program utilizes the MNIST dataset from Keras to train a model for identifying clothing items in images.
